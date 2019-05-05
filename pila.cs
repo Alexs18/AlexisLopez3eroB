@@ -42,7 +42,8 @@ namespace TAD_PILA._2
                     case 3:
                         Cima(ref Pila);
                         break;
-
+                    case 4: 
+                        
                 }
             } while (boton != 4);
             Console.ReadKey();
